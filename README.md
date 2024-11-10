@@ -1,2 +1,2 @@
-# typescript-lib
-作为typescript库的模板
+# template-typescript-browser-lib
+作为浏览器端的typescript库模板
